@@ -438,7 +438,8 @@ https://github.com/Robert-JunWang/Pelee
 
 **R-FCN-3000 at 30fps: Decoupling Detection and Classification**
 
-<https://arxiv.org/abs/1712.01802>
+- arxiv: <https://arxiv.org/abs/1712.01802>
+- github: <https://github.com/mahyarnajibi/SNIPER/tree/cvpr3k>
 
 **Recycle deep features for better object detection**
 
